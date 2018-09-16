@@ -1,0 +1,17 @@
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bin\Debug\ReverseMap\resources.pri
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bin\Debug\AppxManifest.xml
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bin\Debug\HelloCanvas.build.appxrecipe
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\HelloCanvas.jsproj.CoreCompileInputs.cache
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\ResourceHandlingTask.state
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\priconfig.xml
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\priconfig.xml.intermediate
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\layout.resfiles
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\layout.resfiles.intermediate
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\resources.resfiles
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\resources.resfiles.intermediate
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\pri.resfiles
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\pri.resfiles.intermediate
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\qualifiers.txt
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Will Fergus\Desktop\Columbia Folder\Graphics_Apps\HelloCanvas\HelloCanvas\bld\Debug\ProjectArchitectures.txt
